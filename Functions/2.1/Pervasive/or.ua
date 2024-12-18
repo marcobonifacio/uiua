@@ -8,3 +8,8 @@
 # Non-boolean values give the GCD
 ∨ 16 24
 ∨ 51 85
+
+# Better than ↥ maximum as logical OR
+[⊃/∨/↥] [0 0]
+[⊃/∨/↥] [0]
+[⊃/∨/↥] [] # Reduce to 0 
